@@ -3,7 +3,7 @@
 Required Actions been implemented
 Filename : Task.ipynb
 
-All 7 Tasks are in diffrent separated cells.
+All 5 Tasks are in diffrent separated cells.
 # How to run : Run individual cells to execute the code
              Provide required input wherever required
 
