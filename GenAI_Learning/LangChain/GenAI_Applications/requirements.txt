@@ -1,0 +1,6 @@
+langchain
+python-dotenv
+langchain-google-genai
+accelerate
+torch
+deepagents

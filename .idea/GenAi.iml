@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/GenAI_Learning/LangChain/GenAI_Applications/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.14 virtualenv at C:\YashAssets\PythonProjects\GenAi\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
