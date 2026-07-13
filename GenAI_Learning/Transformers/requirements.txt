@@ -2,3 +2,8 @@ transformers
 python-dotenv
 langchain-google-genai
 pytorch
+bitsandbyte
+accelerate
+torchvision
+torch
+torchaudio
