@@ -7,3 +7,5 @@ deepagents
 langchain-huggingface
 ipykernel
 pypdf
+pdfplumber
+pymupdf
