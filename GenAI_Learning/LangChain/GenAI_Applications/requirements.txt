@@ -4,3 +4,6 @@ langchain-google-genai
 accelerate
 torch
 deepagents
+langchain-huggingface
+ipykernel
+pypdf
