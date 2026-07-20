@@ -9,3 +9,6 @@ ipykernel
 pypdf
 pdfplumber
 pymupdf
+scikit-learn
+langchain-ollama
+chromadb
