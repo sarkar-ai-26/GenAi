@@ -12,3 +12,6 @@ pymupdf
 scikit-learn
 langchain-ollama
 chromadb
+langchain_chroma
+langchain_community
+wikipedia
