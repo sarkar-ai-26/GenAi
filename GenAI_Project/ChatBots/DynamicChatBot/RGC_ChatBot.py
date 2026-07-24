@@ -15,7 +15,7 @@ context = st.text_input('What is the context for the AI')
 query = st.text_input('What is your query?')
 
 template = PromptTemplate(template="""You are an senior {role} working in a company. You always have a gaol in mind that is {goal}, 
-with context {context}, and this is the Questions {query}. """,input_variables=['role','goal','context','query'])
+with context {context}, and this is the Questions {query}. """,input_variables=['role','goal','context','query'],validate_template=True)
 
 final_prompt = template.invoke({'role':role,'goal':goal,'context':context,'query':query})
 
