@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+langchain-google-genai
+accelerate
+torch
+langchain-huggingface
+ipykernel
+langchain-ollama
+chromadb
+langchain_chroma
+langchain_community
+streamlit
