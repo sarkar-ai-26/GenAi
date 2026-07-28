@@ -16,3 +16,4 @@ langchain_chroma
 langchain_community
 wikipedia
 langchain_retriever
+pydantic
